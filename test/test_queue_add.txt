@@ -1,0 +1,12 @@
+queue wait add normal
+queue wait add vip
+queue wait add normal
+queue wait add normal
+queue wait add normal
+queue wait add vip
+queue wait add vip
+queue wait add vip
+queue wait add normal
+queue wait add normal
+queue wait add normal
+queue wait list

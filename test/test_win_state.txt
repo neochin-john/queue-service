@@ -1,0 +1,13 @@
+queue wait add normal
+queue wait add vip
+queue wait add normal
+service add
+service add
+service add
+service add
+service callnext 1
+service callnext 2
+service list
+service idle 2
+queue history list
+service list
